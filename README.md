@@ -1,5 +1,6 @@
 # coaster
 
-pollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	522	2018
-7	Iron Rattler	Six Flags Fiesta Texas	San Antonio, Texas	Rocky Mountain	2013	483	2018
-8	Leviathan	Canada’s Wonderland
+The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
+7	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	722	2015
+8	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	637	2015
+9	Gold Striker	Ca
