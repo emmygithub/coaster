@@ -1,8 +1,7 @@
 # coaster
 
-Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	1126	2016
-2	Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1122	2016
-3	Superman The Ride	Six Flags New England	Agawam, Mass.	Intamin	2000	698	2016
-4	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	613	2016
-5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	454	2016
-6	Apollo’s Chariot
+The Legend	Holiday World	Santa Claus, Ind.	Custom Coasters	2000	241	2016
+17	Giant Dipper	Santa Cruz Beach Boardwalk	Santa Cruz, Calif.	Prior & Church/Looff	1924	233	2016
+18	Colossos	Heide Park	Soltau, Germany	Intamin	2001	222	2016
+19	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	Custom Coasters	1998	213	2016
+20	Jack Rabbit
