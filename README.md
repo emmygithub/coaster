@@ -1,7 +1,8 @@
 # coaster
 
-The Legend	Holiday World	Santa Claus, Ind.	Custom Coasters	2000	241	2016
-17	Giant Dipper	Santa Cruz Beach Boardwalk	Santa Cruz, Calif.	Prior & Church/Looff	1924	233	2016
-18	Colossos	Heide Park	Soltau, Germany	Intamin	2001	222	2016
-19	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	Custom Coasters	1998	213	2016
-20	Jack Rabbit
+The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
+7	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	722	2015
+8	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	637	2015
+9	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	560	2015
+10	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
+1	Boulder Dash
