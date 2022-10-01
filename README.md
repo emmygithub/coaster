@@ -1,8 +1,7 @@
 # coaster
 
-The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
-7	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	722	2015
-8	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	637	2015
-9	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	560	2015
-10	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
-1	Boulder Dash
+New Texas Giant	Six Flags Over Texas	Arlington, Texas	RMC	2011	379	2017
+10	Maverick	Cedar Point	Sandusky, Ohio	Intamin	2007	375	2017
+11	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	374	2017
+12	Phantom’s Revenge	Kennywood	West Mifflin, Pa.	Morgan	2001	344	2017
+13	Intimidator 305
