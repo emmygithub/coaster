@@ -1,10 +1,13 @@
 # coaster
-Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	597	2015
-7	Intimidator	Carowinds	Charlotte, N.C.	B&M	2010	499	2015
-8	Leviathan	Canada’s Wonderland	Vaughan, Ontario, Canada	B&M	2012	491	2015
-9	Nemesis	Alton Towers	Staffordshire, England	B&M	1994	462	2015
-10	New Texas Giant	Six Flags Over Texas	Arlington, Texas	Rocky Mountain	2011	450	2015
-1	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	1126	2016
-2	Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1122	2016
-3	Superman The Ride	Six Flags New England	Agawam, Mass.	Intamin	2000	698	2016
-4	Expedition GeForce
+underhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	923	2013
+6	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	712	2013
+7	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	599	2013
+8	The Beast	Kings Island	Kings Mills, Ohio	KECO	1979	555	2013
+9	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	364	2013
+10	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	CCI	1998	304	2013
+1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1480	2014
+2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1291	2014
+3	The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1129	2014
+4	Phoenix	Knoebels Amusement Resort	Elysburg, Pa.	Dinn/PTC-Schmeck	1985	1036	2014
+5	Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	837	2014
+6	Ravine Flyer II
