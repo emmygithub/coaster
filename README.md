@@ -1,7 +1,7 @@
 # coaster
-lue Fire	Europa-Park	Rust, Germany	Mack	2006	283	2016
-15	Magnum XL-200	Cedar Point	Sandusky, Ohio	Arrow	1989	279	2016
-16	New Texas Giant	Six Flags Over Texas	Arlington, Texas	RMC	2011	272	2016
-17	Intimidator 305	Kings Dominion	Doswell, Va.	Intamin	2010	268	2016
-18	Wicked Cyclone	Six Flags New England	Agawam, Mass.	RMC	2015	265	2016
-19	Top Thrill Dragster
+Giant Dipper	Santa Cruz Beach Boardwalk	Santa Cruz, Calif.	Prior & Church/Looff	1924	233	2016
+18	Colossos	Heide Park	Soltau, Germany	Intamin	2001	222	2016
+19	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	Custom Coasters	1998	213	2016
+20	Jack Rabbit	Kennywood	West Mifflin, Pa.	PTC/Miller	1920	208	2016
+21	Thunderbolt	Kennywood	West Mifflin, Pa.	Vettel/Miller	1968	206	2016
+22	Cú Chulainn
