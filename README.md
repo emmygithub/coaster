@@ -1,9 +1,7 @@
 # coaster
-
-
-
-
-Phoenix	Knoebels Amusement Resort	Elysburg, Pa.	Dinn/PTC-Schmeck	1985	1088	2013
-4	The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1086	2013
-5	Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	923	2013
-6	Ravine Flyer II
+lue Fire	Europa-Park	Rust, Germany	Mack	2006	283	2016
+15	Magnum XL-200	Cedar Point	Sandusky, Ohio	Arrow	1989	279	2016
+16	New Texas Giant	Six Flags Over Texas	Arlington, Texas	RMC	2011	272	2016
+17	Intimidator 305	Kings Dominion	Doswell, Va.	Intamin	2010	268	2016
+18	Wicked Cyclone	Six Flags New England	Agawam, Mass.	RMC	2015	265	2016
+19	Top Thrill Dragster
