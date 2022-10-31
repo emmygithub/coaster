@@ -1,9 +1,9 @@
 # coaster
-hunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	923	2013
-6	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	712	2013
-7	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	599	2013
-8	The Beast	Kings Island	Kings Mills, Ohio	KECO	1979	555	2013
-9	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	364	2013
-10	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	CCI	1998	304	2013
-1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1480	2014
-2	El Toro
+layland Wooden Coaster	Playland	Vancouver, B.C., Canada	Phare	1958	141	2016
+31	The Boss	Six Flags St. Louis	Eureka, Mo.	Custom Coasters	2000	140	2016
+32	Wild Mouse	Blackpool Pleasure Beach	Blackpool, England	Wright, Blackpool	1958	132	2016
+33	American Thunder	Six Flags St. Louis	Eureka, Mo.	Great Coasters Int.	2009	129	2016
+34	White Lightning	Fun Spot America	Orlando, Fla.	Great Coasters Int.	2013	128	2016
+35	Megafobia	Oakwood Leisure Park	Pembrokeshire, Wales	Custom Coasters	1996	122	2016
+36	Hades 360	Mt. Olympus Theme Park	Wisconsin Dells, Wis.	Gravity Group	1995	118	2016
+37	Rampage
