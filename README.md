@@ -1,5 +1,5 @@
 # coaster
-Full Throttle	Six Flags Magic Mountain	Valencia, Calif.	Premier	2013	59	2017
-1	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	1222	2018
-2	Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1156	2018
-3	Steel Vengeance
+Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1204	2013
+2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1011	2013
+3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	598	2013
+4	Nitro
