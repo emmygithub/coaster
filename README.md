@@ -1,8 +1,8 @@
 # coaster
-Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	619	2014
-8	The Beast	Kings Island	Mason, Ohio	KECO	1979	614	2014
-9	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	605	2014
-10	Balder	Liseberg	Gothenburg, Sweden	Intamin	2003	393	2014
-1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
-2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
-3	Phoenix
+Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	597	2015
+7	Intimidator	Carowinds	Charlotte, N.C.	B&M	2010	499	2015
+8	Leviathan	Canada’s Wonderland	Vaughan, Ontario, Canada	B&M	2012	491	2015
+9	Nemesis	Alton Towers	Staffordshire, England	B&M	1994	462	2015
+10	New Texas Giant	Six Flags Over Texas	Arlington, Texas	Rocky Mountain	2011	450	2015
+1	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	1126	2016
+2	Millennium Force
