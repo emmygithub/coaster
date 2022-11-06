@@ -1,5 +1,5 @@
 # coaster
-Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1204	2013
-2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1011	2013
-3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	598	2013
-4	Nitro
+Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	637	2015
+9	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	560	2015
+10	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
+1	Boulder Dash
