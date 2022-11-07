@@ -1,5 +1,6 @@
 # coaster
-Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	637	2015
-9	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	560	2015
-10	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
-1	Boulder Dash
+Phoenix	Knoebels Amusement Resort	Elysburg, Pa.	Dinn/PTC-Schmeck	1985	1301	2015
+4	The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1184	2015
+5	Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	904	2015
+6	The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
+7	Ravine Flyer II
