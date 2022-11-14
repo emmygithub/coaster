@@ -1,6 +1,11 @@
 # coaster
-El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1291	2014
-3	The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1129	2014
-4	Phoenix	Knoebels Amusement Resort	Elysburg, Pa.	Dinn/PTC-Schmeck	1985	1036	2014
-5	Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	837	2014
-6	Ravine Flyer II
+Helix	Liseberg	Gothenburg, Sweden	Mack	2014	165	2016
+30	Alpengeist	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1997	144	2016
+31	Goliath	La Ronde	Montreal, Quebec, Canada	B&M	2006	128	2016
+32	Raging Bull	Six Flags Great America	Gurnee, Ill.	B&M	1999	122	2016
+32	Taron	Phantasialand	Brühl, Germany	Intamin	2016	122	2016
+34	Thunderbird	Holiday World	Santa Claus, Ind.	B&M	2015	113	2016
+35	Mako	SeaWorld Orlando	Orlando, Fla.	B&M	2016	110	2016
+36	Wild Eagle	Dollywood	Pigeon Forge, Tenn.	B&M	2012	107	2016
+37	Steel Force	Dorney Park	Allentown, Pa.	Morgan	1997	105	2016
+38	Lisebergbanan
