@@ -1,7 +1,5 @@
 # coaster
-Intimidator	Carowinds	Charlotte, N.C.	B&M	2010	387	2014
-1	Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1205	2015
-2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	929	2015
-3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	714	2015
-4	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	671	2015
-5	Nitro
+The Legend	Holiday World	Santa Claus, Ind.	Custom Coasters	2000	241	2016
+17	Giant Dipper	Santa Cruz Beach Boardwalk	Santa Cruz, Calif.	Prior & Church/Looff	1924	233	2016
+18	Colossos	Heide Park	Soltau, Germany	Intamin	2001	222	2016
+19	Shivering Timbers
