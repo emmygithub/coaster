@@ -1,10 +1,5 @@
 # coaster
-Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1122	2016
-3	Superman The Ride	Six Flags New England	Agawam, Mass.	Intamin	2000	698	2016
-4	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	613	2016
-5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	454	2016
-6	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	397	2016
-7	Leviathan	Canada’s Wonderland	Vaughan, Ontario, Canada	B&M	2012	393	2016
-8	Intimidator	Carowinds	Charlotte, N.C.	B&M	2010	350	2016
-9	Diamondback	Kings Island	Mason, Ohio	B&M	2009	330	2016
-10	Phantom’s Revenge
+El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
+3	Phoenix	Knoebels Amusement Resort	Elysburg, Pa.	Dinn/PTC-Schmeck	1985	1301	2015
+4	The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1184	2015
+5	Thunderhead
