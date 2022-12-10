@@ -1,4 +1,5 @@
 # coaster
-Leviathan	Canada’s Wonderland	Vaughan, Ontario, Canada	B&M	2012	491	2015
-9	Nemesis	Alton Towers	Staffordshire, England	B&M	1994	462	2015
-10	New Texas Giant
+Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	929	2015
+3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	714	2015
+4	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	671	2015
+5	Nitro
