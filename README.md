@@ -1,3 +1,5 @@
 # coaster
-Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	484	2014
-8	New Texas Giant
+Mind Bender	Six Flags Over Georgia	Austell, Ga.	Schwarzkopf	1978	168	2016
+28	Storm Chaser	Kentucky Kingdom	Louisville, Ky.	RMC	2016	166	2016
+29	Helix	Liseberg	Gothenburg, Sweden	Mack	2014	165	2016
+30	Alpengeist
