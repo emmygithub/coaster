@@ -1,5 +1,4 @@
 # coaster
-Mind Bender	Six Flags Over Georgia	Austell, Ga.	Schwarzkopf	1978	168	2016
-28	Storm Chaser	Kentucky Kingdom	Louisville, Ky.	RMC	2016	166	2016
-29	Helix	Liseberg	Gothenburg, Sweden	Mack	2014	165	2016
-30	Alpengeist
+Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1204	2013
+2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1011	2013
+3	Expedition GeForce
