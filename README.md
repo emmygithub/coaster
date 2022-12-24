@@ -1,3 +1,5 @@
 # coaster
-Magnum XL-200	Cedar Point	Sandusky, Ohio	Arrow	1989	416	2013
-10	Intimidator-305
+Balder	Liseberg	Gothenburg, Sweden	Intamin	2003	393	2014
+1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
+2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
+3	Phoenix
