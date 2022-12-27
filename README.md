@@ -1,5 +1,7 @@
 # coaster
-Balder	Liseberg	Gothenburg, Sweden	Intamin	2003	393	2014
-1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
-2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
-3	Phoenix
+Cú Chulainn	Tayto Park	Ashbourne, Ireland	Gravity Group	2015	179	2016
+23	Wodan	Europa-Park	Rust, Germany	Great Coasters Int.	2012	175	2016
+24	Troy	Toverland	Sevenum, Netherlands	Great Coasters Int.	2007	174	2016
+25	Comet	The Great Escape	Lake George, N.Y.	PTC/Schmeck	1994	166	2016
+25	El Toro	Freitzeitpark Plohn	Legendfeld, Germany	Great Coasters Int.	2009	166	2016
+27	Cyclone
