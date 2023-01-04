@@ -1,4 +1,4 @@
 # coaster
-Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	764	2014
-4	Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
-5	Nitro
+Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
+2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
+3	Phoenix
