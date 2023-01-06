@@ -1,3 +1,4 @@
 # coaster
-Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1049	2014
-3	Expedition GeForce
+Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	837	2014
+6	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	719	2014
+7	Gold Striker
