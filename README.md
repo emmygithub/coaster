@@ -1,4 +1,4 @@
 # coaster
-Thunderhead	Dollywood	Pigeon Forge, Tenn.	GCII	2004	837	2014
-6	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	719	2014
-7	Gold Striker
+Troy	Toverland	Sevenum, Netherlands	Great Coasters Int.	2007	174	2016
+25	Comet	The Great Escape	Lake George, N.Y.	PTC/Schmeck	1994	166	2016
+25	El Toro
