@@ -1,4 +1,4 @@
 # coaster
-Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	619	2014
-8	The Beast	Kings Island	Mason, Ohio	KECO	1979	614	2014
-9	Outlaw Run
+Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
+5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	563	2014
+6	Leviathan
