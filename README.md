@@ -1,4 +1,4 @@
 # coaster
-Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
-5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	563	2014
-6	Leviathan
+Intimidator-305	Kings Dominion	Doswell, Va.	Intamin	2010	412	2013
+1	Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1139	2014
+2	Bizarro
