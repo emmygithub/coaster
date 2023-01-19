@@ -1,6 +1,4 @@
 # coaster
-Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	719	2014
-7	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	619	2014
-8	The Beast	Kings Island	Mason, Ohio	KECO	1979	614	2014
-9	Outlaw Run	Silver Dollar City	Branson, Mo.	Rocky Mountain	2013	605	2014
-10	Balder
+Leviathan	Canada’s Wonderland	Vaughan, Ont., Canada	B&M	2012	500	2014
+7	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	484	2014
+8	New Texas Giant
