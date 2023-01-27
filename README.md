@@ -1,4 +1,5 @@
 # coaster
-Goliath	Six Flags Over Georgia	Austell, Ga.	B&M	2006	494	2013
-8	Intimidator	Carowinds	Charlotte, N.C.	B&M	2010	478	2013
-9	Magnum XL-200
+Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1205	2015
+2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	929	2015
+3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	714	2015
+4	Fury 325
