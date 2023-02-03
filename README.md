@@ -1,5 +1,4 @@
 # coaster
-Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	719	2014
-7	Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	619	2014
-8	The Beast	Kings Island	Mason, Ohio	KECO	1979	614	2014
-9	Outlaw Run
+Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	764	2014
+4	Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
+5	Nitro
