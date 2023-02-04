@@ -1,4 +1,4 @@
 # coaster
-Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	764	2014
-4	Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
-5	Nitro
+The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
+7	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	722	2015
+8	Outlaw Run
