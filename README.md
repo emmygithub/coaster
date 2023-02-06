@@ -1,4 +1,4 @@
 # coaster
-The Beast	Kings Island	Mason, Ohio	KECO	1979	740	2015
-7	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	722	2015
-8	Outlaw Run
+Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	596	2013
+5	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	542	2013
+6	New Texas Giant
