@@ -1,5 +1,5 @@
 # coaster
-Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	714	2015
-4	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	671	2015
-5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	650	2015
-6	Apollo’s Chariot
+The Voyage	Holiday World	Santa Claus, Ind.	Gravity Group	2006	1028	2016
+5	Ravine Flyer II	Waldameer	Erie, Pa.	Gravity Group	2008	692	2016
+6	The Beast	Kings Island	Mason, Ohio	KECO	1979	670	2016
+7	Thunderhead
