@@ -1,8 +1,5 @@
 # coaster
-Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1011	2013
-3	Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	598	2013
-4	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	596	2013
-5	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	542	2013
-6	New Texas Giant	Six Flags Over Texas	Arlington, Texas	Rocky Mountain	2011	512	2013
-7	Goliath	Six Flags Over Georgia	Austell, Ga.	B&M	2006	494	2013
-8	Intimidator
+Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	364	2013
+10	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	CCI	1998	304	2013
+1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1480	2014
+2	El Toro
