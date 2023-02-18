@@ -1,4 +1,4 @@
 # coaster
-Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
-1	Boulder Dash	Lake Compounce	Bristol, Conn.	Custom Coasters	2000	1216	2016
-2	Phoenix
+	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	563	2014
+6	Leviathan	Canada’s Wonderland	Vaughan, Ont., Canada	B&M	2012	500	2014
+7	Apollo’s Chariot
