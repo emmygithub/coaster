@@ -1,5 +1,5 @@
 # coaster
-Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	364	2013
-10	Shivering Timbers	Michigan’s Adventure	Muskegon, Mich.	CCI	1998	304	2013
-1	Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1480	2014
-2	El Toro
+Expedition GeForce	Holiday Park	Hassloch, Germany	Intamin	2001	714	2015
+4	Fury 325	Carowinds	Charlotte, N.C.	B&M	2015	671	2015
+5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	650	2015
+6	Apollo’s Chariot
