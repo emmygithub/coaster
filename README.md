@@ -1,4 +1,4 @@
 # coaster
-Gold Striker	California’s Great America	Santa Clara, Calif.	GCII	2013	560	2015
-10	Lightning Racer	Hersheypark	Hershey, Pa.	GCII	2000	421	2015
-1	Boulder Dash
+Diamondback	Kings Island	Mason, Ohio	B&M	2009	579	2014
+5	Nitro	Six Flags Great Adventure	Jackson, N.J.	B&M	2001	563	2014
+6	Leviathan
