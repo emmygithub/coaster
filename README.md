@@ -1,4 +1,4 @@
 # coaster
-	Leviathan	Canada’s Wonderland	Vaughan, Ont., Canada	B&M	2012	500	2014
-7	Apollo’s Chariot	Busch Gardens Williamsburg	Williamsburg, Va.	B&M	1999	484	2014
-8	New Texas Giant
+Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1139	2014
+2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1049	2014
+3	Expedition GeForce
