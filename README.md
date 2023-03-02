@@ -1,4 +1,4 @@
 # coaster
-Millennium Force	Cedar Point	Sandusky, Ohio	Intamin	2000	1139	2014
-2	Bizarro	Six Flags New England	Agawam, Mass.	Intamin	2000	1049	2014
-3	Expedition GeForce
+	The Raven	Holiday World	Santa Claus, Ind.	Custom Coasters	1995	245	2016
+16	The Legend	Holiday World	Santa Claus, Ind.	Custom Coasters	2000	241	2016
+17	Giant Dippe
