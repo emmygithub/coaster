@@ -1,4 +1,4 @@
 # coaster
-	The Raven	Holiday World	Santa Claus, Ind.	Custom Coasters	1995	245	2016
-16	The Legend	Holiday World	Santa Claus, Ind.	Custom Coasters	2000	241	2016
-17	Giant Dippe
+Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
+2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
+3	Phoenix
