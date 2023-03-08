@@ -1,4 +1,4 @@
 # coaster
-Boulder Dash	Lake Compounce	Bristol, Conn.	CCI	2000	1625	2015
-2	El Toro	Six Flags Great Adventure	Jackson, N.J.	Intamin	2006	1464	2015
-3	Phoenix
+New Texas Giant	Six Flags Over Texas	Arlington, Texas	Rocky Mountain	2011	512	2013
+7	Goliath	Six Flags Over Georgia	Austell, Ga.	B&M	2006	494	2013
+8	Intimidator
